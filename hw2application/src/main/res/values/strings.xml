@@ -1,0 +1,42 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Instruments_190109012</string>
+    <string name="home_page">Home page</string>
+    <string name="btn_change">Change</string>
+    <string name="write_here">Write here</string>
+    <string name="repeat">Repeat!</string>
+    <string name="says_to_you">Parrot says to you: </string>
+    <string name="no_user_input">Please enter some text!</string>
+    <string-array name="localization_spinner">
+        <item>en</item>
+        <item>ru</item>
+        <item>kk</item>
+    </string-array>
+
+    <string name="timer">Timer</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="reset">reset</string>
+
+    <string name="solve">solve</string>
+    <string name="converter">converter</string>
+    <string name="convert">convert!</string>
+    <string name="write_value">Write value here…</string>
+
+    <string name="dollar">$</string>
+    <string name="euro">€</string>
+    <string name="yen">¥</string>
+    <string name="ruble">₽</string>
+    <string name="tenge">₸</string>
+
+    <string name="in_d">in dollars: </string>
+    <string name="in_e">in euros: </string>
+    <string name="in_y">in yens: </string>
+    <string name="in_r">in rubles: </string>
+    <string name="in_t">in tenge: </string>
+
+    <string name="contacts">contacts</string>
+    <string name="show">show</string>
+
+    <string name="t_number" tools:ignore="MissingTranslation">number</string>
+    <string name="t_contacts" tools:ignore="MissingTranslation">Contacts</string>
+</resources>

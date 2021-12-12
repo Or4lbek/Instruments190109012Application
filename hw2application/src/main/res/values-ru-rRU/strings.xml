@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Инструменты_190109012</string>
+    <string name="home_page">Домашная страница</string>
+    <string name="btn_change">Изменить</string>
+    <string name="write_here">Пишите здесь</string>
+    <string name="repeat">Повторяю!!</string>
+    <string name="says_to_you">Попугай говорит тебе: </string>
+    <string name="no_user_input">Изменить!</string>
+
+    <string name="dollar">$</string>
+    <string name="euro">€</string>
+    <string name="yen">¥</string>
+    <string name="ruble">₽</string>
+    <string name="tenge">₸</string>
+
+    <string name="timer">Таймер</string>
+    <string name="start">старт</string>
+    <string name="stop" >стоп</string>
+    <string name="reset" >сброс</string>
+
+    <string name="solve">solve</string>
+    <string name="converter">converter</string>
+    <string name="convert">convert!</string>
+    <string name="write_value">Write value here…</string>
+
+    <string name="in_d">in dollars: </string>
+    <string name="in_e">in euros: </string>
+    <string name="in_y">in yens: </string>
+    <string name="in_r">in rubles: </string>
+    <string name="in_t">in tenges: </string>
+
+    <string name="contacts">contacts</string>
+    <string name="show">show</string>
+
+</resources>
